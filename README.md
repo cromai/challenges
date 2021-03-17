@@ -34,6 +34,8 @@ Alguns pré-requisitos/definições/combinados:
 - Uma mensagem comporta sempre uma frase, terminando sempre com o caractere `.` (ou em binário `00101110`). Assim você não precisa vasculhar a imagem inteira.
 - Documente seu código, crie testes e por favor crie um documento com comandos para executar as requisições usando `curl`.
 
-Caso precise de ajuda, sinta-se a vontade para entrar em contato perguntando ou pedindo explicações!
+Caso precise de ajuda, sinta-se a vontade para entrar em [contato](mailto:time@cromai.com) perguntando ou pedindo explicações!
 
-Ao terminar a API crie um arquivo ZIP desse repositório e nos envie com um GIF de gatinhos fazendo maldade.
+Ao terminar a API crie um arquivo ZIP desse repositório e nos envie com um GIF de gatinhos fazendo maldade para o e-mail: [time@cromai.com](mailto:time@cromai.com).
+
+![Big brother is watching you!](images/big_brother_is_watching_u.bmp)
