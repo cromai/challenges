@@ -38,7 +38,7 @@ Caso precise de ajuda, sinta-se a vontade para entrar em [contato](mailto:time@c
 
 Ao terminar a API crie um arquivo ZIP desse repositório e nos envie com um GIF de gatinhos fazendo maldade para o e-mail: [time@cromai.com](mailto:time@cromai.com).
 
-![Big brother is watching you!](images/big_brother_is_watching_u.bmp)
+<img alt="Big brother is watching you!" src=/images/big_brother_is_watching_u.bmp>
 
 Algumas referências que podem te ajudar:
 
