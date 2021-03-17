@@ -39,3 +39,10 @@ Caso precise de ajuda, sinta-se a vontade para entrar em [contato](mailto:time@c
 Ao terminar a API crie um arquivo ZIP desse repositório e nos envie com um GIF de gatinhos fazendo maldade para o e-mail: [time@cromai.com](mailto:time@cromai.com).
 
 ![Big brother is watching you!](images/big_brother_is_watching_u.bmp)
+
+Algumas referências que podem te ajudar:
+
+- [BMP File Format](https://www.digicamsoft.com/bmp/bmp.html)
+- [Bits to Bitmaps: A simple walkthrough of BMP Image Format - Uday Hiwarale](https://medium.com/sysf/bits-to-bitmaps-a-simple-walkthrough-of-bmp-image-format-765dc6857393)
+- [Data Hiding Using Least Significant Bit Steganography in Digital Images - B.Chitradevi, N.Thinaharan and M.Vasanthi](https://zenodo.org/record/262996/files/Chapter%2017.pdf?download=1)
+- [Tabela ASCII](https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html)
