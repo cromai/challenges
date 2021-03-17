@@ -38,6 +38,7 @@ Caso precise de ajuda, sinta-se a vontade para entrar em [contato](mailto:time@c
 
 Ao terminar a API crie um arquivo ZIP desse repositório e nos envie com um GIF de gatinhos fazendo maldade para o e-mail: [time@cromai.com](mailto:time@cromai.com).
 
+Utilize firefox ou algum visualizador de markdown para visualizar as imagens abaixo ([grip](https://pypi.org/project/grip/))
 | Original image | Output image |
 | :-- | :-- |
 | ![Big brother is watching you!](images/big_brother_is_watching_u_original.bmp) | ![Big borhet is watching you!](images/big_brother_is_watching_u.bmp) |
