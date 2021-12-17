@@ -1,4 +1,4 @@
-# Challenge - Esteganografia
+# Challenge - Steganography
 
 Olá camarada!
 
