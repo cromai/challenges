@@ -6,5 +6,5 @@ Esse repositório engloba todos os desafios lançados para nossos futuros Cromai
 
 | Challenge | Description |
 | --- | --- |
-| Pythagoras Calculator | [Description →](https://github.com/cromai/challenges/pythagoras) |
-| Steganography | [Description →](https://github.com/cromai/challenges/steganography) |
+| Pythagoras Calculator | [Description →](https://github.com/cromai/challenges/tree/main/pythagoras) |
+| Steganography | [Description →](https://github.com/cromai/challenges/tree/main/steganography) |
