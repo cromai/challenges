@@ -4,7 +4,7 @@
 
 Esse repositório engloba todos os desafios lançados para nossos futuros Cromaianes. :rocket: 
 
-| Command | Description |
+| Challenge | Description |
 | --- | --- |
 | Pythagoras Calculator | [Description →](https://github.com/cromai/challenges/pythagoras) |
 | Steganography | [Description →](https://github.com/cromai/challenges/steganography) |
