@@ -30,9 +30,8 @@ Se quiser tornar sua solução ainda mais completa, desenvolva uma interface que
 
 Não se preocupe, temos algumas que podem ajudar, vamos lá!
 - Travou em alguma parte, não se preocupe, se não estiver conseguindo fazer algumas das etapas pule, faça o máximo que puder.
-- Caso precise de ajuda, sinta-se à vontade para entrar em [pra gente](mailto:time@cromai.com) perguntando ou pedindo explicações!
-- Assim que finalizar a grande missão, mande todas informações [pra gente](mailto:time@cromai.com) com o link do seu github. 
-- Lembre-se de colocar o nome da vaga no assunto do e-mail.
+- Caso precise de ajuda, sinta-se à vontade para nos contactar [aqui](mailto:time@cromai.com) perguntando ou pedindo explicações!
+- Assim que finalizar a grande missão, mande todas as informações [para nos](mailto:time@cromai.com) com o link do seu github, lembre-se de colocar o nome da vaga no assunto do e-mail.
 
 Uma dica para seu algoritmo de esteganografia, uma mensagem comporta sempre uma frase, terminando sempre com o caractere "`.`" (ou em binário `00101110`). Assim você não precisa vasculhar a imagem inteira.
 
